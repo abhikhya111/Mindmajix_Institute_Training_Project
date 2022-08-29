@@ -1,0 +1,13 @@
+.app{
+  text-align: left;
+  
+}
+@media (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
+
+.cardColor{
+  background-color: aquamarine;
+}

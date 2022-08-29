@@ -1,0 +1,10 @@
+.cardColor
+{
+    background-color: aquamarine;
+}
+
+.cardBody{
+    display:flex;
+    flex-direction: row;
+}
+
